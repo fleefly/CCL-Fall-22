@@ -50,6 +50,7 @@ function proceedSequence() {
   }
 }
 
+
 function drawIntro() {
   background(0);
   strokeWeight(15);
